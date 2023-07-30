@@ -9,7 +9,7 @@ This plant leaf disease detection project was developed using Python, Flask, Ten
 - Flask: A micro web framework used for deploying the plant leaf disease detection model as a web application.
 - Python: The primary programming language used for building the model and the web application.
 
-![Images of the web app](Leaf Disease Prediction.png)
+![Images of the web app](/Leaf Disease Prediction.png)
 
 ## How to Use
 
